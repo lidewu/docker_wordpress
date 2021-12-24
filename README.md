@@ -9,4 +9,4 @@
   Image: nginx:latest
 
 ### Dir tree
-![Dir tree](https://i.imgur.com/xesDW8G.png)
+![Dir tree](https://i.imgur.com/YfJA2AS.png)
